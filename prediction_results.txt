@@ -1,0 +1,420 @@
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:34:49
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹768.37                            
+Raw Prediction Value           768.37                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:40:09
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹803.13                            
+Raw Prediction Value           803.13                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:40:28
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹666.23                            
+Raw Prediction Value           666.23                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:40:46
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹751.25                            
+Raw Prediction Value           751.25                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:41:04
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹793.93                            
+Raw Prediction Value           793.93                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:42:17
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹767.64                            
+Raw Prediction Value           767.64                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:42:34
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹749.45                            
+Raw Prediction Value           749.45                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:43:22
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹723.89                            
+Raw Prediction Value           723.89                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:49:14
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹794.56                            
+Raw Prediction Value           794.56                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:50:16
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹746.62                            
+Raw Prediction Value           746.62                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:50:43
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹709.55                            
+Raw Prediction Value           709.55                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:52:32
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹669.08                            
+Raw Prediction Value           669.08                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:52:58
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹808.44                            
+Raw Prediction Value           808.44                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-16 22:53:25
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹704.17                            
+Raw Prediction Value           704.17                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-17 11:15:35
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    8.5                                
+Item Fat Content               Low Fat                            
+Item Visibility                0.016                              
+Item Type                      Dairy                              
+Item Mrp                       249.81                             
+Outlet Identifier              OUT013                             
+Outlet Size                    Medium                             
+Outlet Location Type           Tier 1                             
+Outlet Type                    Supermarket Type1                  
+----------------------------------------------------------------------
+Predicted Sales                ₹1,088.70                          
+Raw Prediction Value           1088.70                            
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-17 14:29:12
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹711.03                            
+Raw Prediction Value           711.03                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-18 02:24:46
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    8.5                                
+Item Fat Content               Low Fat                            
+Item Visibility                0.016                              
+Item Type                      Dairy                              
+Item Mrp                       249.81                             
+Outlet Identifier              OUT013                             
+Outlet Size                    Medium                             
+Outlet Location Type           Tier 1                             
+Outlet Type                    Supermarket Type1                  
+----------------------------------------------------------------------
+Predicted Sales                ₹983.73                            
+Raw Prediction Value           983.73                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-18 02:29:49
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    13.3                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.102                              
+Item Type                      Dairy                              
+Item Mrp                       230.53                             
+Outlet Identifier              OUT035                             
+Outlet Size                    Small                              
+Outlet Location Type           Tier 2                             
+Outlet Type                    Supermarket Type1                  
+----------------------------------------------------------------------
+Predicted Sales                ₹780.36                            
+Raw Prediction Value           780.36                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-18 22:38:10
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    15.2                               
+Item Fat Content               Regular                            
+Item Visibility                0.034                              
+Item Type                      Snack Foods                        
+Item Mrp                       89.95                              
+Outlet Identifier              OUT027                             
+Outlet Size                    Small                              
+Outlet Location Type           Tier 2                             
+Outlet Type                    Grocery Store                      
+----------------------------------------------------------------------
+Predicted Sales                ₹161.91                            
+Raw Prediction Value           161.91                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-18 23:16:58
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    15.2                               
+Item Fat Content               Regular                            
+Item Visibility                0.034                              
+Item Type                      Snack Foods                        
+Item Mrp                       89.95                              
+Outlet Identifier              OUT027                             
+Outlet Size                    Small                              
+Outlet Location Type           Tier 2                             
+Outlet Type                    Grocery Store                      
+----------------------------------------------------------------------
+Predicted Sales                ₹161.91                            
+Raw Prediction Value           161.91                             
+======================================================================
+
+======================================================================
+BigMart Sales Prediction Result
+Timestamp: 2025-07-18 23:17:23
+======================================================================
+Field                          Value                              
+----------------------------------------------------------------------
+Item Weight                    12.8                               
+Item Fat Content               Low Fat                            
+Item Visibility                0.028                              
+Item Type                      Household                          
+Item Mrp                       199.5                              
+Outlet Identifier              OUT045                             
+Outlet Size                    High                               
+Outlet Location Type           Tier 3                             
+Outlet Type                    Supermarket Type2                  
+----------------------------------------------------------------------
+Predicted Sales                ₹713.21                            
+Raw Prediction Value           713.21                             
+======================================================================
